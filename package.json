@@ -1,0 +1,8 @@
+{
+  "name": "webpack",
+  "version": "2.2.2",
+  "main": "index.js",
+  "repository": "https://github.com/yilianyoumen/webpack2.git",
+  "author": "zhangxiaojuan <zhangxiaojuan@testin.cn>",
+  "license": "MIT"
+}
